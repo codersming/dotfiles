@@ -109,7 +109,7 @@ static const char *dmenucmd[] = {
     "dmenu_run", "-m",      dmenumon, "-fn",    dmenufont, "-nb",     col_gray1,
     "-nf",       col_gray3, "-sb",    col_cyan, "-sf",     col_gray4, NULL};
 static const char *termcmd[] = {"st", NULL};
-static const char *browsercmd[] = {"microsoft-edge-dev", NULL};
+static const char *browsercmd[] = {"microsoft-edge-stable", NULL};
 static const char *codecmd[] = {"code", NULL};
 
 // static const char *voltoggle[] = { "~/scripts/volume_toggle.sh",  NULL };
